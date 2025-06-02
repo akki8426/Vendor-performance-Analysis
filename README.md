@@ -71,6 +71,14 @@ Data includes:
 - Improve sales & distribution efforts for underperforming vendors  
 - Use statistical models to guide strategic vendor and pricing decisions
 
+---  
+
+## 🖼️ Project Report Preview
+
+Here’s a quick preview of the final project report summary:
+
+<p align="center">
+  <img src="" alt="Vendor Performance Report Preview" />
+</p>
+
 ---
-
-
