@@ -78,7 +78,7 @@ Data includes:
 Here’s a quick preview of the final project report summary:
 
 <p align="center">
-  <img src="https://github.com/akki8426/Vendor-performance-Analysis/blob/main/Screenshot%202025-06-02%20125032.png?raw=true" alt="Vendor Performance Report Preview" />
+  <img src="https://github.com/akki8426/Vendor-performance-Analysis/blob/main/Vendor%20project%20Dashboard%20ScreenShot.png?raw=true" alt="Vendor Performance Report Preview" />
 </p>
 
 ---
