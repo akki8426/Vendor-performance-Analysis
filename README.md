@@ -74,5 +74,3 @@ Data includes:
 ---
 
 
-
-> ⭐ Star this repository if you found the project insightful or would like to reference it in your own work!
